@@ -1,5 +1,5 @@
 # Excel Data Transformation: Cleaning, Pivot Tables, And Dashboards
-![Excel Data Transformation - Cleaning, Pivot Tables, And Dashboards-1](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/assets/172190865/e0d4f2d2-be55-479f-abb7-0562dbe1e0f2)
+![Excel Data Transformation - Cleaning, Pivot Tables, And Dashboards-1](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/assets/172190865/870a9ffe-954d-4339-a359-fa7af827c9b1)
 ![Excel Data Transformation - Cleaning, Pivot Tables, And Dashboards-2](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/assets/172190865/a6abc52c-c0cf-4b8e-b435-5759beefb7d3)
 ![Excel Data Transformation - Cleaning, Pivot Tables, And Dashboards-3](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/assets/172190865/8abb0386-5116-4493-94d0-cc0c9f97b619)
 ![Excel Data Transformation - Cleaning, Pivot Tables, And Dashboards-4](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/assets/172190865/503f8b80-ceac-4773-a461-0c717c12b86f)
