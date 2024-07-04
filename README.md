@@ -1,7 +1,7 @@
 # 📊 Excel Data Transformation: Cleaning, Pivot Tables, And Dashboards
 👀
 [Dataset](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/blob/main/Excel%20Project%20Dataset.xlsx) -
-[Output FIle](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/blob/main/Excel%20Project%20Dataset%20Transformed.xlsx) -
+[Output File](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/blob/main/Excel%20Project%20Dataset%20Transformed.xlsx) -
 [Project Documentation](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards/blob/main/Excel%20Data%20Transformation%20-%20Cleaning%2C%20Pivot%20Tables%2C%20And%20Dashboards.pdf)
 
 ---
